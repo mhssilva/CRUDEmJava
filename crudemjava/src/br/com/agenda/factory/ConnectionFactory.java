@@ -9,7 +9,7 @@ public class ConnectionFactory {
 	private static final String USERNAME = "root";
 	
 	//senha do banco
-	private static final String PASSWORD = "Matheuzxd123";
+	private static final String PASSWORD = "***************";
 	
 	//caminho do banco
 	private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/agenda?serverTimezone=UTC";
